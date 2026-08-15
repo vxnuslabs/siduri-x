@@ -16,5 +16,6 @@ Unlike standard conversational agents that lose context when a session ends or a
 Explore the concepts behind Siduri:
 - [Persistent Memory](docs/concepts/memory.md)
 - [Modular Design](docs/concepts/modular-design.md)
+- [The Truth Gate (New)](docs/concepts/the-anchor.md)
 
 *Siduri is currently in active development. Stay tuned for future releases.*
