@@ -1,8 +1,10 @@
 # Siduri
 
-Siduri is an intelligent AI companion framework designed with **persistent, authoritative memory**. 
+Siduri is an intelligent AI companion framework designed with **persistent, authoritative memory**.
 
 Unlike standard conversational agents that lose context when a session ends or a context window fills up, Siduri is built around a robust memory foundation. She learns, remembers, and adapts over time, treating her memory as a central source of truth for identity, relationships, and learned behaviors.
+
+Our goal is simple: **Siduri should be as easy to install or run anywhere as a single command** — no matter the platform, no matter the setup.
 
 ## Core Features
 
