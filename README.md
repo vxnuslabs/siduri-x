@@ -8,6 +8,7 @@ Our goal is simple: **Siduri should be as easy to install or run anywhere as a s
 
 ## Core Features
 
+- **Blank Slate Instance**: Every Siduri instance starts with no pre-baked persona or backstory. She isn't scripted into being — she's *grown* into it, forming her identity entirely through accumulated memory and real interaction. Same core, completely different Siduri depending on who she grows with.
 - **Persistent Memory**: Siduri remembers past interactions, preferences, and established facts across sessions. Her memory is not a temporary cache, but an authoritative database of shared history.
 - **Modular Capabilities**: Designed to be extensible. Whether she needs to speak, see, or interact with platforms, her capabilities act as independent "organs" that can be plugged into her core system.
 - **Contextual Awareness**: Siduri dynamically retrieves relevant memories to ground her responses in established facts, maintaining a consistent persona over time.
