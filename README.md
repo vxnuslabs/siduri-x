@@ -1,11 +1,14 @@
 # Siduri
 
-Siduri is an intelligent AI companion framework designed with **persistent, authoritative memory**. 
+Siduri is an intelligent AI companion framework designed with **persistent, authoritative memory**.
 
 Unlike standard conversational agents that lose context when a session ends or a context window fills up, Siduri is built around a robust memory foundation. She learns, remembers, and adapts over time, treating her memory as a central source of truth for identity, relationships, and learned behaviors.
 
+Our goal is simple: **Siduri should be as easy to install or run anywhere as a single command** — no matter the platform, no matter the setup.
+
 ## Core Features
 
+- **Blank Slate Instance**: Every Siduri instance starts with no pre-baked persona or backstory. She isn't scripted into being — she's *grown* into it, forming her identity entirely through accumulated memory and real interaction. Same core, completely different Siduri depending on who she grows with.
 - **Persistent Memory**: Siduri remembers past interactions, preferences, and established facts across sessions. Her memory is not a temporary cache, but an authoritative database of shared history.
 - **Modular Capabilities**: Designed to be extensible. Whether she needs to speak, see, or interact with platforms, her capabilities act as independent "organs" that can be plugged into her core system.
 - **Contextual Awareness**: Siduri dynamically retrieves relevant memories to ground her responses in established facts, maintaining a consistent persona over time.
